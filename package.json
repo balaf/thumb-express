@@ -7,10 +7,10 @@
     "main": "thumb-express",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ebalaf/thumb-express.git"
+        "url": "https://github.com/balaf/thumb-express.git"
     },
     "bugs": {
-        "url": "https://github.com/ebalaf/thumb-express/issues"
+        "url": "https://github.com/balaf/thumb-express/issues"
     },
     "dependencies": {
         "imagemagick" : "*"
