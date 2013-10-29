@@ -1,0 +1,22 @@
+{
+    "name": "thumb-express",
+    "author": "Elias Balafoutis <balafi@myopera.com>",
+    "description": "Express/Connect middleware for creation of image thumbnails",
+    "keywords" : ["Thumbnail", "middleware"],
+    "version": "0.0.1",
+    "main": "thumb-express",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ebalaf/thumb-express.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ebalaf/thumb-express/issues"
+    },
+    "dependencies": {
+        "imagemagick" : "*"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    }
+}
