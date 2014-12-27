@@ -2,7 +2,7 @@
 
     <a href="img/myimage.jpg"><img src="img/myimage.jpg?tn=150"></a>
     
-Example: http://art.gazette.gr
+Example: http://art.gazette.gr/work
 
 ## Installation
 
